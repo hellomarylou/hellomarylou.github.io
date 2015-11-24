@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,600,400);
+h1{
+	font-family:'Open Sans', sans-serif;
+	font-weight: 600;
+}
+h2{
+	font-family:'Open Sans', sans-serif;
+	font-weight:400;
+}
+p{
+	font-family:'Open Sans', sans-serif;
+	font-weight: 300
+}
+ul{
+	font-family:'Opens Sans', sans-serif;
+	font-weight: 300;
+}
+img {
+	width:250px;
+}
+
